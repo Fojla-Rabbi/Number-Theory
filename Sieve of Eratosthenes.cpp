@@ -1,4 +1,7 @@
 // It's just a pre-computation to save all the primes till a number
+// O(n*log log n) ---> for i to N
+// O(n*log log sqrt(n)) ---> i to sqrt(n)
+
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
