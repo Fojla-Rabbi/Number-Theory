@@ -28,10 +28,5 @@ int main() {
     cin.tie(NULL);
 
     sieve();
-    int t;
-    cin >> t;
-    while(t--) {
-        solve();
-    }
     return 0;
 }
